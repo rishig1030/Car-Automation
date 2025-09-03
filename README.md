@@ -57,6 +57,8 @@ Respect steering and velocity constraints.
 
 Simulation outputs include:
 
+<img width="1366" height="673" alt="MPC Car" src="https://github.com/user-attachments/assets/6982b364-3f04-4ae3-8179-0cb6dfcc3df2" />
+
 
 
 
