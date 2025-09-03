@@ -1,4 +1,4 @@
-# **🚗Car Automation & UAV Quadcopter Drone Simulation using Model Predictive Control (MPC)**
+<img width="640" height="480" alt="mpc car fig1" src="https://github.com/user-attachments/assets/bc5d916b-1523-4e00-a241-d6e68634226f" /># **🚗Car Automation & UAV Quadcopter Drone Simulation using Model Predictive Control (MPC)**
 
 
 ## 📌 Overview
@@ -59,6 +59,7 @@ Simulation outputs include:
 
 <img width="1366" height="673" alt="MPC Car" src="https://github.com/user-attachments/assets/6982b364-3f04-4ae3-8179-0cb6dfcc3df2" />
 
+<img width="640" height="480" alt="mpc car fig2" src="https://github.com/user-attachments/assets/f93010d9-527f-4c95-9d26-6d6bac9fb3ee" />
 
 
 
